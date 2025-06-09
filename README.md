@@ -1,5 +1,29 @@
-# Vue 3 + Vite
+1. make a folder named vue-portfolio
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+2. unzip the vue-portfolio to the folder
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+3. Make sure the following tools are installed on your system:
+Node.js (v14 or higher)
+npm (comes with Node.js) or yarn
+A modern browser (e.g., Chrome, Firefox)
+
+4. To verify installation:
+bash
+node -v
+npm -v
+
+5. Clone the Repository
+bash
+git clone https://github.com/your-username/your-vue-project.git
+cd your-vue-project
+
+6. Install Dependencies
+bash
+npm install
+
+7. Start Development Server
+bash
+npm run dev
+
+8.This will start the local dev server. Open your browser and visit:
+http://localhost:5173/
